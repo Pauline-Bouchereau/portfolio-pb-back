@@ -41,3 +41,5 @@ const Project = mongoose.model("Project", {
   image: { type: mongoose.Schema.Types.Mixed, default: {} },
   video: { type: mongoose.Schema.Types.Mixed, default: {} },
 });
+
+module.exports = Project;
