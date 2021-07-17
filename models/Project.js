@@ -6,7 +6,7 @@ const Project = mongoose.model("Project", {
     required: true,
   },
   type: {
-    // Frontend or fullstack
+    // Frontend or Fullstack
     type: String,
     required: true,
   },
