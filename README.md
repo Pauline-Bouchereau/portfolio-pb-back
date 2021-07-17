@@ -21,7 +21,13 @@ _Made in 2021 - personnal project_
 
 ### 🪛 Packages
 
-✔️ 
+✔️ Express  
+✔️ Express-formidable   
+✔️ Mongoose  
+✔️ Cors  
+✔️ Dotenv  
+✔️ Cloudinary  
+✔️ Mailgun-js  
 
 ### 🚀 Running the project
 
