@@ -12,6 +12,7 @@
 _Made in 2021 - personnal project_
 
 ### ⚙️ Main functionalities :
+Display of projects with filters|| Contact form
 
 ### 🔧 Stack
 
